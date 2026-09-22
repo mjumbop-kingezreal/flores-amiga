@@ -1,0 +1,86 @@
+[
+  {
+    "name": "sunflower-field",
+    "path": "C:\\Users\\david\\Documents\\proyectos\\osiris-asset-staging\\sunflower-field.webp",
+    "image_url": "https://images.unsplash.com/photo-1599270613570-a620f2e59f75?w=1100&q=85&fit=max",
+    "source_url": "https://unsplash.com/photos/sunflower-field-under-blue-sky-during-sunset-kW1P8R-UoWI",
+    "author": "todd kent",
+    "provider": "Unsplash",
+    "license_url": "https://unsplash.com/license",
+    "size": 127638,
+    "dimensions": [
+      1100,
+      733
+    ]
+  },
+  {
+    "name": "yellow-bouquet",
+    "path": "C:\\Users\\david\\Documents\\proyectos\\osiris-asset-staging\\yellow-bouquet.webp",
+    "image_url": "https://images.pexels.com/photos/5987197/pexels-photo-5987197.jpeg?w=1000&auto=compress",
+    "source_url": "https://www.pexels.com/photo/bouquet-of-yellow-flowers-in-vase-5987197/",
+    "author": "Jill Burrow",
+    "provider": "Pexels",
+    "license_url": "https://www.pexels.com/license/",
+    "size": 41902,
+    "dimensions": [
+      733,
+      1100
+    ]
+  },
+  {
+    "name": "yellow-tulips",
+    "path": "C:\\Users\\david\\Documents\\proyectos\\osiris-asset-staging\\yellow-tulips.webp",
+    "image_url": "https://images.unsplash.com/photo-1612072589004-1ab4c720dc13?w=1000&q=85&fit=max",
+    "source_url": "https://unsplash.com/photos/yellow-tulips-bouquet-on-white-surface-I-EPxSc_ics",
+    "author": "Birgith Roosipuu",
+    "provider": "Unsplash",
+    "license_url": "https://unsplash.com/license",
+    "size": 70038,
+    "dimensions": [
+      768,
+      1100
+    ]
+  },
+  {
+    "name": "sunset-flowers",
+    "path": "C:\\Users\\david\\Documents\\proyectos\\osiris-asset-staging\\sunset-flowers.webp",
+    "image_url": "https://images.pexels.com/photos/7819667/pexels-photo-7819667.jpeg?w=1100&auto=compress",
+    "source_url": "https://www.pexels.com/photo/photo-of-a-sunflower-field-during-sunset-7819667/",
+    "author": "Ömer Hakkı",
+    "provider": "Pexels",
+    "license_url": "https://www.pexels.com/license/",
+    "size": 76146,
+    "dimensions": [
+      1100,
+      733
+    ]
+  },
+  {
+    "name": "pressed-flowers",
+    "path": "C:\\Users\\david\\Documents\\proyectos\\osiris-asset-staging\\pressed-flowers.webp",
+    "image_url": "https://images.pexels.com/photos/11591470/pexels-photo-11591470.jpeg?w=1000&auto=compress",
+    "source_url": "https://www.pexels.com/photo/pressed-flowers-and-a-leaf-on-a-white-paper-11591470/",
+    "author": "Merve Bayar",
+    "provider": "Pexels",
+    "license_url": "https://www.pexels.com/license/",
+    "size": 166618,
+    "dimensions": [
+      1000,
+      750
+    ]
+  },
+  {
+    "name": "close-sunflower",
+    "path": "C:\\Users\\david\\Documents\\proyectos\\osiris-asset-staging\\close-sunflower.webp",
+    "image_url": "https://images.pexels.com/photos/36789591/pexels-photo-36789591.jpeg?w=1000&auto=compress",
+    "source_url": "https://www.pexels.com/photo/close-up-of-a-vibrant-yellow-sunflower-bloom-36789591/",
+    "author": "Dr Photographer",
+    "provider": "Pexels",
+    "license_url": "https://www.pexels.com/license/",
+    "size": 74654,
+    "dimensions": [
+      733,
+      1100
+    ]
+  }
+]
